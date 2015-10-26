@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 435aa751565987f46a4ba52730f94b95
+timeCreated: 1444704474
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bigWheel
+    100002: bigWheelSpokes
+    100004: bigWheelStrut
+    100006: handleBar
+    100008: pedalL
+    100010: pedalR
+    100012: pedalRod
+    100014: rearWheelL
+    100016: rearWheelR
+    100018: rearWheelRimL
+    100020: rearWheelSpokesR
+    100022: //RootNode
+    100024: wheelGuard
+    400000: bigWheel
+    400002: bigWheelSpokes
+    400004: bigWheelStrut
+    400006: handleBar
+    400008: pedalL
+    400010: pedalR
+    400012: pedalRod
+    400014: rearWheelL
+    400016: rearWheelR
+    400018: rearWheelRimL
+    400020: rearWheelSpokesR
+    400022: //RootNode
+    400024: wheelGuard
+    2300000: bigWheel
+    2300002: bigWheelSpokes
+    2300004: bigWheelStrut
+    2300006: handleBar
+    2300008: pedalL
+    2300010: pedalR
+    2300012: pedalRod
+    2300014: rearWheelL
+    2300016: rearWheelR
+    2300018: rearWheelRimL
+    2300020: rearWheelSpokesR
+    2300022: //RootNode
+    2300024: wheelGuard
+    3300000: bigWheel
+    3300002: bigWheelSpokes
+    3300004: bigWheelStrut
+    3300006: handleBar
+    3300008: pedalL
+    3300010: pedalR
+    3300012: pedalRod
+    3300014: rearWheelL
+    3300016: rearWheelR
+    3300018: rearWheelRimL
+    3300020: rearWheelSpokesR
+    3300022: //RootNode
+    3300024: wheelGuard
+    4300000: Tricycle
+    4300002: rearWheelL
+    4300004: rearWheelRimL
+    4300006: rearWheelR
+    4300008: rearWheelSpokesR
+    4300010: handleBar
+    4300012: bigWheelStrut
+    4300014: wheelGuard
+    4300016: bigWheel
+    4300018: pedalRod
+    4300020: pedalR
+    4300022: pedalL
+    4300024: bigWheelSpokes
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
